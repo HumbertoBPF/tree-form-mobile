@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tree Forms</string>
+    <string name="username_input_hint">Username</string>
+    <string name="password_input_hint">Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="wrong_credentials_error">Wrong username and/or password</string>
+    <string name="error_loading_forms">Error when loading your forms</string>
+    <string name="info_icon_title">Info</string>
+    <string name="logout_icon_title">Logout</string>
+    <string name="error_loading_form">Error while loading form</string>
+    <string name="next_option">Next</string>
+    <string name="previous_button_text">Previous</string>
+    <string name="end_button_text">End quiz</string>
+    <string name="info_text_1">This app allows you to access and browse tree forms.</string>
+    <string name="info_text_2">Different from a regular form, which is a simple set of questions,
+        the answers that you provide in a tree form will determine the upcoming questions presented
+        to you.</string>
+    <string name="info_text_3">You can find more details about this app, as well as its source code,
+        on <a href="https://github.com/HumbertoBPF">this GitHub repository</a>. </string>
+</resources>
